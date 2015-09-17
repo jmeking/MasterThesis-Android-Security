@@ -1,0 +1,4 @@
+
+Plain Text: {"temp":"22"}***
+Encrypted Data: dh¨:
+Encoded base64: ZGioFzoApFk9CfV9XFQhxQ==

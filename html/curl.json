@@ -1,0 +1,9 @@
+curl -H "Content-Type: application/json" -X POST -d '{"temp":"CURL","humd":"CURL"}' http://localhost:80/webserver/webclient.php
+
+curl -H "Content-Type: application/json" -X POST -d '{"temp":"CURL","humd":"CURL"}' http://localhost:80/webserver/webclient.php
+
+128-bit test. Timed
+curl -H "Content-Type: text/plain" -X POST -d 'ZGioFzoApFk9CfV9XFQhxQ==' http://192.168.2.103
+
+256-bit test. Timed
+curl -H "Content-Type: text/plain" -X POST -d 'loJRbUB3/2mdNhMmrQgrnBYV/UlNwyS+C837H2TgOuQ=' http://192.168.2.103
